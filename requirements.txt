@@ -1,0 +1,15 @@
+derivative
+sympy==1.8
+scikit-learn
+scipy
+matplotlib
+numpy
+pandas
+torch
+torchdiffeq
+pysindy
+pyDOE
+filterpy
+tensorflow
+# git+https://github.com/grgromano/gplearn.git
+# git+https://github.com/grgromano/D_CODE.git
